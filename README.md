@@ -56,6 +56,7 @@ Visualization	(if included) PNG/SVG map drawing
 
 1️⃣ Clone the repository
 git clone https://github.com/your-username/a-star-osm.git
+
 cd a-star-osm
 
 2️⃣ Build the project
